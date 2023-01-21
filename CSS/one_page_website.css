@@ -1,0 +1,23 @@
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+.inputstyle {
+border: 5px solid black;
+border-radius: 7px;
+}
+
+.inputstyle [type="text"] {
+
+    font-size: 20px;
+    padding: 1px ;
+    width: 50%;
+    margin: 2px auto;
+    border: 3px solid black;
+    border-radius: 7px;
+    background: cornsilk;
+    font-family: 'Raleway', sans-serif
+
+}
